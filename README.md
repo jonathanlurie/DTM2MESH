@@ -4,6 +4,8 @@ The mesh is exported in a [Collada](https://de.wikipedia.org/wiki/Collada_(Speic
 **Important Note :** This is not a Collada file viewer or any other kind of 3D mesh visualizer.  
 **Less Important Note:** This project was made in 2 days, so be nice if you find mistakes...
 
+![](https://raw.githubusercontent.com/jonathanlurie/DTM2MESH/master/doc/scheme.jpg)
+
 ## How to use
 
 This is a Pythonic command-line tool.  
@@ -35,11 +37,17 @@ Good question. A lot of websites may provide that, coming from multiple sources.
 You can also check Derek's [work](http://dwtkns.com/portfolio/) or [blog](http://blog.dwtkns.com/) if you are interested in map stuff.
 
 
-## How to visualize Collada files
+## About Collada files
 
+### Why in Collada?
+Don't you thing it's a bit frustrating to be able to generate a 3D mesh, and just visualize it in a window? The point is to **use** this mesh. Collada is an open format, compatible with famous 3D builders (3DS Max, Maya, Blender...). A terrain mesh could for example be used in a game or in a animation movie...
+
+### How to visualize them
 If you are using a Mac, this is part of it but it comes with very few options (none actually).  
 I noticed [MeshLab](http://meshlab.sourceforge.net/) is not so bad but may jam when the file is too big.  
+Since you have to use PyCollada, you can use the tinny Viewer inside this project. Again, if the file is too big, it might not work.  
 Apparently SketchUp woks pretty fine as well, but I didn't try it.
+
 
 ## Limitations
 
