@@ -40,7 +40,7 @@ You can also check Derek's [work](http://dwtkns.com/portfolio/) or [blog](http:/
 ## About Collada files
 
 ### Why in Collada?
-Don't you thing it's a bit frustrating to be able to generate a 3D mesh, and just visualize it in a window? The point is to **use** this mesh. Collada is an open format, compatible with famous 3D builders (3DS Max, Maya, Blender...). A terrain mesh could for example be used in a game or in a animation movie...
+Don't you think it's a bit frustrating to be able to generate a 3D mesh, and just visualize it in a window? The point is to **use** this mesh. Collada is an open format, compatible with famous 3D builders (3DS Max, Maya, Blender...). A terrain mesh could for example be used in a game or in a animation movie...
 
 ### How to visualize them
 If you are using a Mac, this is part of it but it comes with very few options (none actually).  
